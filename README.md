@@ -2,21 +2,24 @@
 Project Proposal: Using Google Maps Data to Get Insights Into Private Travel Habits
 
 INTRODUCTION AND MOTIVATION
+
 When first starting this project, I wasn’t sure which topic to pick. But one day, after commuting back and forth from school and getting stuck in traffic, I thought it would be interesting to analyze my own travel patterns. Google Maps offers a feature called Timeline, which records a user’s travel history, including visited locations, travel routes, and frequency. This project aims to extract and visualize insights from my Google Maps data.
 
 HYPOTHESIS
+
 I believe I travel more on weekdays compared to weekends, likely due to my school schedule.
 
 OBJECTIVES
+
 Extract travel history data from Google Maps Timeline.
-Clean and preprocess the data for analysis.
+Than clean and preprocess the data for analysis.
 Examine travel habits, including frequently visited locations, preferred routes, and modes of transportation.
 Visualize travel trends using charts and graphs.
 
 METHODOLOGY
 
 1. Data Collection
-Download Google Maps Timeline data via Google Takeout.
+Download Google Maps Timeline data from Google Takeout.
 Extract relevant details (timestamps, locations, and modes of transportation).
 
 2. Data Preprocessing
