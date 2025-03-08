@@ -3,7 +3,7 @@ Project Proposal: Using Google Maps Data to Get Insights Into Private Travel Hab
 
 INTRODUCTION AND MOTIVATION
 
-When first starting this project, I wasn’t sure which topic to pick. But one day, after commuting back and forth from school and getting stuck in traffic, I thought it would be interesting to analyze my own travel patterns. Google Maps offers a feature called Timeline, which records a user’s travel history, including visited locations, travel routes, and frequency. This project aims to extract and visualize insights from my Google Maps data.
+When first starting this project, I wasn’t sure which topic to pick. But one day, while going back and forth from school and getting stuck in traffic since I live in Çekmeköy, I thought it would be interesting to analyze my own travel patterns. Google Maps offers a feature called Timeline, which records a user’s travel history, including visited locations, travel routes, and frequency. This project aims to extract and visualize insights from my Google Maps data.
 
 HYPOTHESIS
 
