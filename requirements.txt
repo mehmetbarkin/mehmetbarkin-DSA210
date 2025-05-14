@@ -1,8 +1,8 @@
-numpy
 pandas
+numpy
 matplotlib
 seaborn
 scipy
-scikit-learn
 requests
 python-dateutil
+scikit-learn
