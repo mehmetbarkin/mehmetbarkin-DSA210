@@ -2,7 +2,8 @@ pandas
 numpy
 matplotlib
 seaborn
-scipy
-requests
-python-dateutil
 scikit-learn
+scipy
+xgboost
+python-dateutil
+requests
